@@ -16,3 +16,9 @@ Write an algorithm to schedule matches for the entire tournament given the follo
 The program should accept the start day of the tournament, and create a fixture table which ensures the conditions are met.  The Fixture table must contain the following as columns
 
 Match #, Date, Team Names (Team A Vs Team C), City.
+
+Demo Screenshot:
+
+![Demo](http://i.imgur.com/6cXHR0L.png "Demo")
+
+
