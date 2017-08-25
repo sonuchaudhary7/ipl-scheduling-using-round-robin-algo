@@ -61,15 +61,15 @@ $matches = $roundrobin->setDates($matches, $date);
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>CoStrategix Assignment</title>
+	<title>IPL Schedule</title>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
 
 <div class="container">
-	<h1>IPL Fixture Algorithm</h1>
+	<h1>IPL Fixture</h1>
 	<hr>
-	
+
 	<div id="row">
 		<div class="col-md-4">
 			<form method="post" class="form-horizontal">
